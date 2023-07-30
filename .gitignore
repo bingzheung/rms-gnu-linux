@@ -1,0 +1,15 @@
+.DS_Store
+.vscode/
+
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.pdf
+*.synctex.gz
+*.out.ps
+*.idx
+*.toc
+*__latexindent_temp.tex
